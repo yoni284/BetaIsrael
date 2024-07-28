@@ -1,2 +1,2 @@
 
-](https://yoni284.github.io/BetaIsrael/)
+https://yoni284.github.io/BetaIsrael/
