@@ -68,25 +68,3 @@ body {
 }
 
 
-
-
-@media (max-width: 768px) {
-  nav ul {
-    flex-direction: column;
-    align-items: center;
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100vh;
-    background-color: #f0f0f0;
-    z-index: 999;
-    display: none;
-  }
-
-  nav ul.active {
-    display: flex;
-  }
-
-  /* סגנונות נוספים להתאמה אישית */
-}
