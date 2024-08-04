@@ -1,7 +1,7 @@
 
 body {
  text-align:center;
- padding:30px;
+ padding:10px;
   background-color: ivory;
 }
 
@@ -21,7 +21,7 @@ body {
 .section {
     flex: 1;
     text-align: center;
-    padding:15px;
+    padding:10px;
     background-color: #f0f0f0;
     border-radius: 10px; /* פינות מעוגלות */
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3); /* צל עדין */
@@ -53,27 +53,10 @@ h3 {
 }
 
 
-/* עיצוב ברירת מחדל (לטאבלטים ומחשבים ניידים) */
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-}
-
-/* עיצוב ברירת מחדל (לטאבלטים ומחשבים ניידים) */
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-}
 
 
 
-@media (max-width: 768px) {
-  /* סגנונות שיוחלו על מסכים ברוחב 768 פיקסלים ומטה */
-  body {
-    font-size: 16px;
-  }
-  .container {
-    width: 100%;
-  }
+
+
+
+

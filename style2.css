@@ -1,0 +1,30 @@
+body {
+  font-size: 16px;
+}
+h1 {
+  font-size: 1em;
+}
+
+
+.item {
+  flex: 1;
+  padding: 8px;
+}
+
+
+@media (max-width: 768px) {
+  .container {
+    width: 90%;
+  }
+}
+
+
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+}
+.item {
+  flex: 1;
+  padding: 10px;
+}
